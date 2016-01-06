@@ -42,33 +42,20 @@
 				<div class="container">
 
 					<header class="major special">
-						<h2>1-D Motion</h2>
+						<h2>Mechanics</h2>
 					</header>
 					<ol>
-						<li>
-							<img src="questions/1-d1.png" alt="" style="vertical-align:top"/><br>
-							<iframe width="853" height="480" src="https://www.youtube.com/embed/cdg_ebZi_9c" frameborder="0" allowfullscreen></iframe>
-						</li>
-						<li>
-							<img src="questions/1-d2.png" alt="" style="vertical-align:top">
-							<iframe width="853" height="480" src="https://www.youtube.com/embed/nd1kjUVqYMo" frameborder="0" allowfullscreen></iframe>
-						</li>
-						<li>
-							<img src="questions/1-d3.png" alt="" style="vertical-align:top"/>
-							<iframe width="853" height="480" src="https://www.youtube.com/embed/7LOAIBtsL8M" frameborder="0" allowfullscreen></iframe>
-						</li>
-						<li>
-							<img src="questions/1-d4.png" alt="" style="vertical-align:top"/>
-							<iframe width="853" height="480" src="https://www.youtube.com/embed/y6AdgRB-BzQ" frameborder="0" allowfullscreen></iframe>
-						</li>
-						<li>
-							<img src="questions/1-d5.png" alt="" style="vertical-align:top"/>
-							<iframe width="853" height="480" src="https://www.youtube.com/embed/NhZJuO_UyTo" frameborder="0" allowfullscreen></iframe>
-						</li>
+						<li><a href="../index.html">Home</a></li>
+						<li><a href="index.html">Mechanics</a></li>
+						<li><a href="../em/index.html">E&M</a></li>
+						<li><a href="generic.html">About Us</a></li>
+						<li><a href="elements.html">Feedback</a></li>
 					</ol>
 
+
 				</div>
-			</section>
+			</section>:q
+
 
 		<!-- Footer -->
 			<footer id="footer">
