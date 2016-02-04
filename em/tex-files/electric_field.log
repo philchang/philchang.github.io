@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.5.5)  3 FEB 2016 13:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.5.5)  4 FEB 2016 01:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -235,19 +235,19 @@ File: square.pdf Graphic file (type pdf)
  <use square.pdf>
 Package pdftex.def Info: square.pdf used on input line 24.
 (pdftex.def)             Requested size: 139.11914pt x 139.1219pt.
- [4 <./square.pdf>] [5] [6] <semicircle.pdf, id=71, 160.37817pt x 290.55952pt>
+ [4 <./square.pdf>] [5] <semicircle.pdf, id=67, 160.37817pt x 290.55952pt>
 File: semicircle.pdf Graphic file (type pdf)
 
 <use semicircle.pdf>
 Package pdftex.def Info: semicircle.pdf used on input line 33.
 (pdftex.def)             Requested size: 66.77446pt x 120.97453pt.
- [7 <./semicircle.pdf>] [8] [9]
-<sphere.pdf, id=87, 337.46777pt x 207.07362pt>
+ [6 <./semicircle.pdf>] [7] [8]
+<sphere.pdf, id=84, 337.46777pt x 207.07362pt>
 File: sphere.pdf Graphic file (type pdf)
  <use sphere.pdf>
 Package pdftex.def Info: sphere.pdf used on input line 43.
 (pdftex.def)             Requested size: 194.77019pt x 119.51508pt.
- [10 <./sphere.pdf>] [11] [12] (./electric_field.aux) ) 
+ [9 <./sphere.pdf>] [10] (./electric_field.aux) ) 
 Here is how much of TeX's memory you used:
  2029 strings out of 494944
  29320 string characters out of 6179663
@@ -256,17 +256,17 @@ Here is how much of TeX's memory you used:
  6376 words of font info for 23 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  38i,5n,23p,405b,112s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb>
-Output written on electric_field.pdf (12 pages, 73114 bytes).
+</usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb>
+Output written on electric_field.pdf (10 pages, 70795 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
+ 117 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
